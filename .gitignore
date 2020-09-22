@@ -1,5 +1,3 @@
 /app/etc/local.xml
-/media/catalog
-/dev/tests/functional/generated
-/dev/tests/functional/vendor
+
 .idea/*
